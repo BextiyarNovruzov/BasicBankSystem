@@ -1,0 +1,14 @@
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.AssemblyInfoInputs.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.AssemblyInfo.cs
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.csproj.CoreCompileInputs.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\bin\Debug\net8.0\BankSystemTask.exe
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\bin\Debug\net8.0\BankSystemTask.deps.json
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\bin\Debug\net8.0\BankSystemTask.runtimeconfig.json
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\bin\Debug\net8.0\BankSystemTask.dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\bin\Debug\net8.0\BankSystemTask.pdb
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\refint\BankSystemTask.dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.pdb
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\BankSystemTask.genruntimeconfig.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\C#\BankSystemTask\BankSystemTask\obj\Debug\net8.0\ref\BankSystemTask.dll
